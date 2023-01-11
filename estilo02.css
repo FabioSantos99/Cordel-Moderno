@@ -95,14 +95,14 @@ section.imagem > p {
 }
 
 section#img01 {
-      background-image: url('../Des12/Imagens/background001.jpg');
+      background-image: url('../Imagens/background001.jpg');
       background-position: right center;
       background-size: cover;
 
 }
 
 section#img02 {
-      background-image: url('../Des12/Imagens/background002.jpg');
+      background-image: url('../Imagens/background002.jpg');
 }
 footer {
       background-color: rgba(3, 0, 0, 0.955);
