@@ -88,16 +88,17 @@ background-attachment: fixed;
 } 
 
 section.imagem > p {
-      display:inline-block;
+      display: inline-block;
       padding: 5px;
-      background-color:rgba(2, 2, 2, 0.305);
+      background-color:rgba(2, 2, 2, 0.285);
       text-shadow: 1px 1px 1px;
 }
+
 
 section#img01 {
       background-image: url('../Imagens/background001.jpg');
       background-position: right center;
-      background-size: cover;
+      background-size:cover;
 
 }
 
